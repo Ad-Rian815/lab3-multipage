@@ -2,7 +2,7 @@
 
 ## Group Members  
 - **Adrian Phiri** (2021397963)  
-- **[Akende Sikelete]** (2021464113)  
+- **Akende Sikelete** (2021464113)  
 
 ## Project Description  
 This project is a multi-page responsive website designed to demonstrate CSS3 styling techniques, including Flexbox, Grid, media queries, and animations. The project consists of three pages:  
